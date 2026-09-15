@@ -1,4 +1,3 @@
-Đây là giao diện để cô và học sinh chạy thử, xem kết quả và trình diễn sản phẩm.
 import os
 
 import streamlit as st
