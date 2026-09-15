@@ -1,0 +1,8 @@
+[001/150] Personalization=0.00 | Run=01 | Seed=101
+[002/150] Personalization=0.00 | Run=02 | Seed=102
+...
+[030/150] Personalization=0.00 | Run=30 | Seed=130
+
+[031/150] Personalization=0.25 | Run=01 | Seed=101
+...
+[150/150] Personalization=1.00 | Run=30 | Seed=130
